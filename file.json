@@ -1,0 +1,18 @@
+{
+    "Resources": [{
+      "Role": [
+        "Scrum Lead",
+        "Engineer",
+        "SRE"
+      ],
+      "Name": "Dean Mark",
+      "Team": "Astra"
+    },
+      {"Role": [
+        "Architect"
+      ],
+      "Name": "James Fergus",
+      "Team": "Contours"
+    }
+    ]
+    }
